@@ -1,18 +1,18 @@
 {
     "format_version": 1,
     "header": {
-        "description": "Adds the ability to create your own spawners",
-        "name": "Custom Spawners",
-        "uuid": "bace0d44-b594-4938-9bf2-f4ef36e9bc80",
-        "version": [0, 2, 0],
+        "description": "Mobs will have a rare chance of dropping their eggs",
+        "name": "Spawn Egg Drops",
+        "uuid": "6aa3b2da-0a72-456b-93c6-25ab24705119",
+        "version": [0, 1, 0],
         "min_engine_version": [1, 12, 0]
     },
     "modules": [
         {
-            "description": "Adds the ability to create your own spawners",
+            "description": "Mobs will have a rare chance of dropping their eggs",
             "type": "data",
-            "uuid": "01ff083c-4814-429b-b516-03777e5c6930",
-            "version": [0, 2, 0]
+            "uuid": "eca47139-af4b-4347-8fe0-21360a356752",
+            "version": [0, 1, 0]
         }
     ]
 }

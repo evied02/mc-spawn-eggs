@@ -1,8 +1,7 @@
-# Custom Spawners
+# Custom Spawn Eggs
 
 This is an add-on for **[Minecraft: Bedrock Edition][bedrock-wiki]**.
-The aim of this pack is to provide the ability to create custom mob spawners in
-survival. This increases the potential of mob/XP farms.
+The aim of this pack is to add a rare chance for mobs to drop their spawn egg.
 
 This add-on is a work in progress and features are subject to change.
 Feel free to contribute by sending a pull request. If you find any bugs or have a
@@ -16,5 +15,5 @@ Once the mcpack is downloaded, launch the file and add it to your world via the 
 
 
 [bedrock-wiki]: https://minecraft.gamepedia.com/Bedrock_Edition
-[releases-page]: https://github.com/mcpacks/custom-spawners/releases
-[create-issue-page]: https://github.com/mcpacks/custom-spawners/issues/new/choose
+[releases-page]: https://github.com/evied02/mc-spawn-eggs/releases
+[create-issue-page]: https://github.com/evied02/mc-spawn-eggs/issues/new/choose
